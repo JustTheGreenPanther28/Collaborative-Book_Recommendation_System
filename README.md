@@ -101,4 +101,4 @@ Issues and pull requests are welcome. Feel free to fork the repo and open a PR.
 
 ## License
 
-No license has been specified yet. Consider adding one (e.g. MIT) if you want others to reuse the code.
+No license has been specified yet
